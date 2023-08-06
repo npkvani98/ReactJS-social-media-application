@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/npkvani98/React-Social-media-app-design.git/static/css/main.27bd11a1.css",
+    "main.js": "/npkvani98/React-Social-media-app-design.git/static/js/main.b05a674a.js",
+    "index.html": "/npkvani98/React-Social-media-app-design.git/index.html",
+    "main.27bd11a1.css.map": "/npkvani98/React-Social-media-app-design.git/static/css/main.27bd11a1.css.map",
+    "main.b05a674a.js.map": "/npkvani98/React-Social-media-app-design.git/static/js/main.b05a674a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27bd11a1.css",
+    "static/js/main.b05a674a.js"
+  ]
+}
