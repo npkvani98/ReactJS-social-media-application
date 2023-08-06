@@ -1,5 +1,5 @@
 {
-  "homepage": "https://npkvani98.github.io/Social-media-Application-using-ReactJS",
+  
   
   "name": "project",
   
@@ -83,9 +83,7 @@
     
   "build": "react-scripts build",
 
-  "predeploy":"npm run build",
-  
-  "deploy":"gh-pages -d build",
+
     
   "test": "react-scripts test",
   
